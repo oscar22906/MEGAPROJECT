@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: b20e666a64d7f8c47ad639cae38f6d24
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speaker_116x118_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23caaf5be83d9c4fbb01da2ac72e3bb
+      internalID: 1462823950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 826
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7501b2e1127904aa786ab8116474f9
+      internalID: 92559500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 826
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2554b9228a3cee34aa0bef9ac9b2678a
+      internalID: -1465097748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 826
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ca5450409d8dd45980c7778c913f72
+      internalID: 155888100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 826
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723e1602a1191984db9409bafaed40e4
+      internalID: 1661856063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 826
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6de976cb63b5246964f1dd114a8a61
+      internalID: 100215508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 826
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889e97ea5e54fc64ea08d1bba95fcb8b
+      internalID: -1822231871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_7
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 826
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036de89af3224fe40bdf66886f6c413b
+      internalID: -941352223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f616271913e38634abe7ddc615e8362e
+      internalID: 738708033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 708
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7dc6ab603ab5e4b9da27d80b54a50a
+      internalID: 309483912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 708
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af8bcd8a29700b4d8a88b454575e526
+      internalID: 2139597326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 708
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d93a8fb24c57e4d97246f0f4475b7f
+      internalID: 1147026353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 708
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d97823b819f05f44a05781745d21643
+      internalID: 406058400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 708
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f5d5e6780fd7441ade06e276c121bf
+      internalID: -85291910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 708
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2c0f0059f93544897d123dd2469116
+      internalID: 498468170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_15
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 708
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285c2135f1c44044781074911f04de03
+      internalID: -1291686657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e44293869e033d499c5a90e5f389318
+      internalID: 656895251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 590
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ab6d4550ec2324ab7c0af64ed3e93b
+      internalID: 209194965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 590
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bf8fee6253f724badabe7dd31c978a
+      internalID: 1676915444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 590
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f8230935d8c4646add87a60b8d2516
+      internalID: 1124120222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 590
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d82355dbe996a45a9316e0f35ea5c7
+      internalID: -259792611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 590
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365cc1c9a62bbe40bcfd5ba9613b5ac
+      internalID: -1644671999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 590
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f517652bab51e54187d036fdd3a6162
+      internalID: -666144490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_23
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 590
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7435a06beb16d40bbbc15820904663
+      internalID: 1375897047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf141d55ead417d4385787776d40db2c
+      internalID: 2035768080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 472
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc393ad848fabad4f8f7a371d164dc7e
+      internalID: 1928473049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 472
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be0168f4d776be4898a5608aa7cdf3e
+      internalID: 443117571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_27
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 472
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2641688b57a1aee42be2132f7461b9e1
+      internalID: -754862726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_28
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 472
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dae2a447be96ea4ea2b5d782d1ae253
+      internalID: -772043310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 472
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecef794ceffdef64eafba01962814218
+      internalID: 929952680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_30
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 472
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342f7c087eb353f449938413778814a3
+      internalID: -463409933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_31
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 472
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25f22aa7b511d345bac9dcd99ae542b
+      internalID: 1969664804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b848bf56c100a40bd93ec3e735098e
+      internalID: -1597932498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 354
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83799e9ea5cb7c4a931082b9ef01b4e
+      internalID: 1145565881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 354
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d4d79f03749ce408ae05bc19be51cd
+      internalID: 1582727561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_35
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 354
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d5a5b8caa977d4f8f561d7465e4eb8
+      internalID: -1000656955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 354
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b755e252e251419e848135d0e4a6a
+      internalID: 1202217936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_37
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 354
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43faa8d17c145de4f9125d3078bbc884
+      internalID: -2090974017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_38
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 354
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8653384816af7304987d4355ce90f6c9
+      internalID: 967864960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_39
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 354
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0743852ebf26a0b48ba5e0e844640787
+      internalID: -538060209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412e4ede0b74f7b4aa5bc1a2c5d14a23
+      internalID: 1061861738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 236
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1485b1bb9e0bf34ea276ac28351d32d
+      internalID: 1990344828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_42
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 236
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eaf6ac65ce8e6408310e80838adbbf
+      internalID: 1638375786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 236
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b3d2160afe55940b187c54c6bfd9fd
+      internalID: 23109007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 236
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606191ea9c3574e418022de54a48cf88
+      internalID: 1053484982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_45
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 236
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af37ffd1de74794cbdbd11d59e5377d
+      internalID: 274327152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_46
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 236
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8523c7f3a4ad3e842a3d62a626eba540
+      internalID: 570430058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_47
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 236
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84693ee58e623b349bcda5666bceb7d5
+      internalID: -1937042285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d80481e84b751940a0d99db144df9a9
+      internalID: -504540359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_49
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 118
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef0d0fdb6269d546b9a05d0ce3d93b9
+      internalID: 1450365193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 118
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d34eec8dfbc4541970debc6da6d579
+      internalID: 364440653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_51
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 118
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f37707da156eb41b6a4cf82cc937cb
+      internalID: -1163008691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 118
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a21185ff8381d94d8dff0cd2b2c0caa
+      internalID: -1780258567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_53
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 118
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302c02b89517e248bdb03d1b3a9b3f7
+      internalID: 1965340152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_54
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 118
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92898dfe6720748ac15848377651f6
+      internalID: -1520635087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_55
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 118
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea815a2d879c54eb1e59db86a70463
+      internalID: -312480878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d045d5e450c93bd40b68d1ca5c5e2c1b
+      internalID: -827680039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e09620be81a0f46ad375da6d7a0744
+      internalID: -1051640750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_58
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f3cab1aa2a5f947a98ec931d2908a0
+      internalID: 1017827671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_116x118_59
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d815c1a5ede5d104592e4b455909c1f3
+      internalID: -1751252717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 789cbf75e74a0ce43b6f0e71d76aa498
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      speaker_116x118_0: 1462823950
+      speaker_116x118_1: 92559500
+      speaker_116x118_10: 2139597326
+      speaker_116x118_11: 1147026353
+      speaker_116x118_12: 406058400
+      speaker_116x118_13: -85291910
+      speaker_116x118_14: 498468170
+      speaker_116x118_15: -1291686657
+      speaker_116x118_16: 656895251
+      speaker_116x118_17: 209194965
+      speaker_116x118_18: 1676915444
+      speaker_116x118_19: 1124120222
+      speaker_116x118_2: -1465097748
+      speaker_116x118_20: -259792611
+      speaker_116x118_21: -1644671999
+      speaker_116x118_22: -666144490
+      speaker_116x118_23: 1375897047
+      speaker_116x118_24: 2035768080
+      speaker_116x118_25: 1928473049
+      speaker_116x118_26: 443117571
+      speaker_116x118_27: -754862726
+      speaker_116x118_28: -772043310
+      speaker_116x118_29: 929952680
+      speaker_116x118_3: 155888100
+      speaker_116x118_30: -463409933
+      speaker_116x118_31: 1969664804
+      speaker_116x118_32: -1597932498
+      speaker_116x118_33: 1145565881
+      speaker_116x118_34: 1582727561
+      speaker_116x118_35: -1000656955
+      speaker_116x118_36: 1202217936
+      speaker_116x118_37: -2090974017
+      speaker_116x118_38: 967864960
+      speaker_116x118_39: -538060209
+      speaker_116x118_4: 1661856063
+      speaker_116x118_40: 1061861738
+      speaker_116x118_41: 1990344828
+      speaker_116x118_42: 1638375786
+      speaker_116x118_43: 23109007
+      speaker_116x118_44: 1053484982
+      speaker_116x118_45: 274327152
+      speaker_116x118_46: 570430058
+      speaker_116x118_47: -1937042285
+      speaker_116x118_48: -504540359
+      speaker_116x118_49: 1450365193
+      speaker_116x118_5: 100215508
+      speaker_116x118_50: 364440653
+      speaker_116x118_51: -1163008691
+      speaker_116x118_52: -1780258567
+      speaker_116x118_53: 1965340152
+      speaker_116x118_54: -1520635087
+      speaker_116x118_55: -312480878
+      speaker_116x118_56: -827680039
+      speaker_116x118_57: -1051640750
+      speaker_116x118_58: 1017827671
+      speaker_116x118_59: -1751252717
+      speaker_116x118_6: -1822231871
+      speaker_116x118_7: -941352223
+      speaker_116x118_8: 738708033
+      speaker_116x118_9: 309483912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

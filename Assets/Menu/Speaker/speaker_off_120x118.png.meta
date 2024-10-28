@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: 62262ee6d4804034cac1bc20974f8b7d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speaker_off_120x118_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db1fc7b7aebc2f4697f6f41eaeebe5a
+      internalID: 1110310304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 826
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2e6d7564594d04499d04af73376462
+      internalID: -1409444514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 826
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917d8612f0792294faefe5663425f40d
+      internalID: 1258505930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 826
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9fc2450d8cd7b4691717c7b6a88546
+      internalID: 1712178841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 826
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce63c29462512941ae237a67c26d467
+      internalID: -55031927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 826
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed8bb04a3469614dbbcbc7e4245e16e
+      internalID: 2124022053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 826
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b620ed9bba58b44bd4d96f1dfc0c2c
+      internalID: -287358448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 826
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98258337ca26d364fa660c5428fe7f1c
+      internalID: 778779808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b42ddd0a5487f74798a5edce2d742d7
+      internalID: 563712438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 708
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e8fc80f2f918c499c831e32a5b4827
+      internalID: 321729566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 708
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ba487cf4226eb45ba284df40b782d1
+      internalID: 1974010304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 708
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc328353db8522641a7d7dbf93141b69
+      internalID: 1362620645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 708
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2249af5742c43fd418eb3c316087142d
+      internalID: 1610773597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 708
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55fd23bce0c9a94dbbfb4e57018c25c
+      internalID: 503732116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 708
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c64185fe90172f4393c42bacd7bb60d
+      internalID: 1000195298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 708
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a99d6a51c0adf42a2eaecda88d803a
+      internalID: 999893568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd5d69f4f0df084180e49e1005e600c
+      internalID: 617534361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 590
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9083d40586443584c9a9280e33256c46
+      internalID: -168229102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 590
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf14be478b904794297904b64d4f7ebc
+      internalID: 1259115562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 590
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ab7945acb73e43b03a879995ea556
+      internalID: 393891733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 590
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52602ce9f7756147a662c4a9c4f5407
+      internalID: -237301663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 590
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c3396de2367294f95345a207816282
+      internalID: 206601532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 590
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727e10de8cc8644abee97992052970e
+      internalID: -2091839299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_23
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 590
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313541923e4c44d47af277b69d0607f6
+      internalID: 11888798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e5796f94570647bb9d13ef7dcc365
+      internalID: -1764690653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 472
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3627a84c2f271f84ba83321d4db0f33a
+      internalID: 27230150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 472
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a27958cee71e94a853d1cadc017284
+      internalID: -954742954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 472
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc11a76809e2024593e3dec91ebd16d
+      internalID: -1885385645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 472
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d2bef2951d25d468921ee8b0e6d6de
+      internalID: 1914877220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 472
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e391ad0156df2e4b88ac16e3fc98ef5
+      internalID: -180077299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_30
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 472
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5f2cf9526d5284890e40cfaf10bb6d
+      internalID: 1049627908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_31
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 472
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9395b2fb7eb77146966366c599323c1
+      internalID: 1701153714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142c641105fc69846805c742982cdc86
+      internalID: -2104612358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 354
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b65e7efb57973449f422a0f5864ccd
+      internalID: 210788299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 354
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a24582d4ad2c5488a9b001330822d2
+      internalID: 1778151238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 354
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb8c9a94eb7894c91bf18b9f1a90e0
+      internalID: -659366301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 354
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624d38abd557d604884ec37a59e9e4f1
+      internalID: -1432883578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 354
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0976a6ba0faf594428cc983d1e6d0e3a
+      internalID: 1706306011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 354
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87cb6e60f3ddc04f87f081b291ece57
+      internalID: -535103344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_39
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 354
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a40d1367f9df6f48ae8a721f601cdba
+      internalID: -1043836816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba9bb5e12c2314bbacc78e2adc10f5
+      internalID: 348685285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 236
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6574bb391b3f2d6499b34c09835ee122
+      internalID: 1011328714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 236
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c06058072bcdb741b484d50bf82500a
+      internalID: -926843548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 236
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1b76525dc560b4aaed7199e5238340
+      internalID: 650107319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 236
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dbb4eb179cbc748af075d5c9933771
+      internalID: 1731966247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 236
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48df1f53765bede46aa4812c6075d452
+      internalID: 446353115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 236
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296552b9a000fb0479384810ca7b3124
+      internalID: -490138585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_47
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 236
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29abbbb9e5465c3428501fe8a76b0950
+      internalID: 328404372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e8865c533708543a4b146b6ebac79d
+      internalID: 1956883911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 118
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baae0fb41cf016439e12f6761fb05d9
+      internalID: 731257451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 118
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c9189d8ee00ae4392a0440546122e4
+      internalID: 1362005619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 118
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4776f11e3dfb8ac4e8d2afb021d1c753
+      internalID: -1922721389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 118
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a0ba978a8f66f43b5d475b3d287f45
+      internalID: -1946360949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 118
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809c7b5388e37ab41944e8f104d069de
+      internalID: -196576515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 118
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791ed995d62b67d43a62b1fc2faa0a48
+      internalID: -1139777989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_55
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 118
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6769149133bcb4fb10ef0c69ef71b0
+      internalID: -1937199097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6579d19fde4ad4f89f0fec6abe0f22
+      internalID: 273954998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_57
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585dfbee682c39f43abfb5072c3deece
+      internalID: -556816614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2b0d368141dd344acc3e405df9f13b
+      internalID: 1551263492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_off_120x118_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b1f2dd8922d89478827bb39845bac0
+      internalID: -278542226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8e125c919fab23e4789ad46f29e09f39
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      speaker_off_120x118_0: 1110310304
+      speaker_off_120x118_1: -1409444514
+      speaker_off_120x118_10: 1974010304
+      speaker_off_120x118_11: 1362620645
+      speaker_off_120x118_12: 1610773597
+      speaker_off_120x118_13: 503732116
+      speaker_off_120x118_14: 1000195298
+      speaker_off_120x118_15: 999893568
+      speaker_off_120x118_16: 617534361
+      speaker_off_120x118_17: -168229102
+      speaker_off_120x118_18: 1259115562
+      speaker_off_120x118_19: 393891733
+      speaker_off_120x118_2: 1258505930
+      speaker_off_120x118_20: -237301663
+      speaker_off_120x118_21: 206601532
+      speaker_off_120x118_22: -2091839299
+      speaker_off_120x118_23: 11888798
+      speaker_off_120x118_24: -1764690653
+      speaker_off_120x118_25: 27230150
+      speaker_off_120x118_26: -954742954
+      speaker_off_120x118_27: -1885385645
+      speaker_off_120x118_28: 1914877220
+      speaker_off_120x118_29: -180077299
+      speaker_off_120x118_3: 1712178841
+      speaker_off_120x118_30: 1049627908
+      speaker_off_120x118_31: 1701153714
+      speaker_off_120x118_32: -2104612358
+      speaker_off_120x118_33: 210788299
+      speaker_off_120x118_34: 1778151238
+      speaker_off_120x118_35: -659366301
+      speaker_off_120x118_36: -1432883578
+      speaker_off_120x118_37: 1706306011
+      speaker_off_120x118_38: -535103344
+      speaker_off_120x118_39: -1043836816
+      speaker_off_120x118_4: -55031927
+      speaker_off_120x118_40: 348685285
+      speaker_off_120x118_41: 1011328714
+      speaker_off_120x118_42: -926843548
+      speaker_off_120x118_43: 650107319
+      speaker_off_120x118_44: 1731966247
+      speaker_off_120x118_45: 446353115
+      speaker_off_120x118_46: -490138585
+      speaker_off_120x118_47: 328404372
+      speaker_off_120x118_48: 1956883911
+      speaker_off_120x118_49: 731257451
+      speaker_off_120x118_5: 2124022053
+      speaker_off_120x118_50: 1362005619
+      speaker_off_120x118_51: -1922721389
+      speaker_off_120x118_52: -1946360949
+      speaker_off_120x118_53: -196576515
+      speaker_off_120x118_54: -1139777989
+      speaker_off_120x118_55: -1937199097
+      speaker_off_120x118_56: 273954998
+      speaker_off_120x118_57: -556816614
+      speaker_off_120x118_58: 1551263492
+      speaker_off_120x118_59: -278542226
+      speaker_off_120x118_6: -287358448
+      speaker_off_120x118_7: 778779808
+      speaker_off_120x118_8: 563712438
+      speaker_off_120x118_9: 321729566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
