@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1eca778e0087438488a1dcff0202e495
+guid: 9a4ebbab75643044b9e31127feac5c48
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,48 +7,83 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Scratched Metal
-    second: {fileID: 2100000, guid: 8fb3804f3e2083d46acbdc7b8d449ff1, type: 2}
+      name: Console-Large
+    second: {fileID: 2100000, guid: fcc9e7c462624c04ab89a4f2e17b3ce6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Screw dark 001
-    second: {fileID: 2100000, guid: 139aa98a6316c6b4f973d01e67624854, type: 2}
+      name: Console-Large.001
+    second: {fileID: 2100000, guid: 10745d9a7f3d16143b70b5b99af8c81e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Zinc 001 001
-    second: {fileID: 2100000, guid: ca82c881061fd8646b0ebb4f689a7acd, type: 2}
+      name: Console-Medium
+    second: {fileID: 2100000, guid: 0a03b341b5d33d54bba98a74efedb407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Console-MediumLeft
+    second: {fileID: 2100000, guid: 9c722e8782e0a5c4ba525704aafb452b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Console-MediumLeft.001
+    second: {fileID: 2100000, guid: 82aa78c4341e30841a9f66488624740a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Console-MediumRight
+    second: {fileID: 2100000, guid: 75fab9d6f26e2ba489cc162e76e04814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Console-MediumRight.001
+    second: {fileID: 2100000, guid: 3efaaa9a7e839624ca2fbd8aaa1c89fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Console-Small
+    second: {fileID: 2100000, guid: 5866805d36cca52469740361d9879593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Console-Small.001
+    second: {fileID: 2100000, guid: 6b76d1cb1598a5c4e9fbd81890a8825d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 16cf453edef08e349ba6c9cbb1a9de40, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: cable
-    second: {fileID: 2100000, guid: f5f975ec21cb03046a07bddc6df7def1, type: 2}
+    second: {fileID: 2100000, guid: b61a97421e707ac47b3139b27dc55a6d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: screen
-    second: {fileID: 2100000, guid: 4e8c482cabeaa51408e31ae87d9c542a, type: 2}
+      name: cable.001
+    second: {fileID: 2100000, guid: e46e87cb85aad9f45a9915eeeb4200fe, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: sy_alum_shiny
-    second: {fileID: 2100000, guid: e11dba761c09b524f91cc11c8c710b68, type: 2}
+      name: dark_annodized_matte
+    second: {fileID: 2100000, guid: 524e1580a5725b448ad1eaf05fd2161e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: sy_dark_annodized_matte
-    second: {fileID: 2100000, guid: 03d79af74dbb0814e809f86407fa0d89, type: 2}
+      name: steel_mat
+    second: {fileID: 2100000, guid: 37432c111a7f9314689e579b4776ae61, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: sy_dark_matte
-    second: {fileID: 2100000, guid: b12ca6a4c46b13043bce0926ee86162b, type: 2}
+      name: sy_dark_annodized_matte.002
+    second: {fileID: 2100000, guid: f06a98d5fc12c3945881869031bcc4c6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: sy_steel_mat
-    second: {fileID: 2100000, guid: edfa26fdef310ac49923dc0f1df02de9, type: 2}
+      name: sy_steel_mat.002
+    second: {fileID: 2100000, guid: 093416b360d840844905b43525178730, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -61,8 +96,6 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -81,7 +114,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 3
+    meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
