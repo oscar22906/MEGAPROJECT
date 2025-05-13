@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 170ad19f9b1d3684484d8b9426a4899d
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cut Glass
+    second: {fileID: 2100000, guid: 2553ad3cfbbc105459c0eba41509dfb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DashRoof
+    second: {fileID: 2100000, guid: 5bca7cd9c00263448a9b57fec15af91e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: a9c8d40e20da3284eae9c792ed86cb14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Strip
+    second: {fileID: 2100000, guid: 0a2d4e6dc0460f748a42505cd501efe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Strip2
+    second: {fileID: 2100000, guid: ba3f74860fb056441963d5b706345c65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Strip3
+    second: {fileID: 2100000, guid: ba2f201549d40ec4aba55ad10017599f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowFrame
+    second: {fileID: 2100000, guid: 01860ecf50f05f741b03167fdb135cf8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DashRoof_low_bDashRoof_BaseColor
+    second: {fileID: 2800000, guid: 50335aef6c4db28488d04cf67ef3d7a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DashRoof_low_bDashRoof_Metallic
+    second: {fileID: 2800000, guid: 4909a628f84f81547a7e66a880fdb59a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DashRoof_low_bDashRoof_Normal
+    second: {fileID: 2800000, guid: 21a8607a0b3647f4d9488c714e404914, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DashRoof_low_bDashRoof_Roughness
+    second: {fileID: 2800000, guid: 1c5b8f12e3f0d6344ab22a52dbd2f66b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Strip2_low_bSideStrip1_BaseColor
+    second: {fileID: 2800000, guid: b2f07c889fb34134896c6772328f24e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Strip2_low_bSideStrip1_Metallic
+    second: {fileID: 2800000, guid: 6788240a191b5d54d8ad0143ef7f80fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Strip2_low_bSideStrip1_Normal
+    second: {fileID: 2800000, guid: be31e499d66245144ac2944fc6b40cf8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Strip2_low_bSideStrip1_Roughness
+    second: {fileID: 2800000, guid: 4c7cb8ab0a8d44d40bf1af74d067fc02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Strip_low_bSideStrip3_BaseColor
+    second: {fileID: 2800000, guid: efe0354d15c8b294cb99179e14d386f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Strip_low_bSideStrip3_Metallic
+    second: {fileID: 2800000, guid: e489ebccbdc0a2c43be11ed05ac613ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Strip_low_bSideStrip3_Normal
+    second: {fileID: 2800000, guid: 390c2cc2f6c022144a309078afc942d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Strip_low_bSideStrip3_Roughness
+    second: {fileID: 2800000, guid: afdc97519f1983b45b32dd98199f2ce6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TopBottom_low_DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: 69ea9c83950e820419ef98272f15ab0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TopBottom_low_DefaultMaterial_Metallic
+    second: {fileID: 2800000, guid: 3f746c5523fb8ee4b903e04a0b622567, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TopBottom_low_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: 8b0f87a1dc5c83c45b60aa9fc1d0131a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TopBottom_low_DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: 58669292d7c680549aebff412e9c92cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_low_Zinc 001 001_BaseColor
+    second: {fileID: 2800000, guid: 1579a7f44cc081842b468c361a85fac6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_low_Zinc 001 001_Metallic
+    second: {fileID: 2800000, guid: f6470223cea102847878138ced5d2b79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_low_Zinc 001 001_Normal
+    second: {fileID: 2800000, guid: e3fc0a5c48f18fd4498831df02b0463a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_low_Zinc 001 001_Roughness
+    second: {fileID: 2800000, guid: cddf48c6d05a0f14da050b0fc1fc93ed, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
