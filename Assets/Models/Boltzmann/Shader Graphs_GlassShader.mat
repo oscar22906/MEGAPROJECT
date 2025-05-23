@@ -56,13 +56,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DisortStrength: 0.89
+    - _DisortStrength: 1.29
     - _DistortionOnTexture: 0
     - _Metallic: 0
     - _NormalStrength: 3.89
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _ReflectionStrength: 2.72
+    - _ReflectionStrength: 3.06
     - _Smoothness: 0.714
     - _Tiling: 400
     m_Colors:
