@@ -8,3 +8,4 @@ public class CamPos : ScriptableObject
     public bool isOrigin;
     public Transform pos;
 }
+
