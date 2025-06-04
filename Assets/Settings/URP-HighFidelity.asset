@@ -18,7 +18,7 @@ MonoBehaviour:
   m_RendererData: {fileID: 0}
   m_RendererDataList:
   - {fileID: 11400000, guid: aad8fefc8ed0617439ef671eab3790a8, type: 2}
-  - {fileID: 11400000, guid: aced5f05f02971844be5cc8b5ce9de10, type: 2}
+  - {fileID: 0}
   m_DefaultRendererIndex: 0
   m_RequireDepthTexture: 1
   m_RequireOpaqueTexture: 1
@@ -110,7 +110,7 @@ MonoBehaviour:
   m_PrefilterDebugKeywords: 1
   m_PrefilterWriteRenderingLayers: 1
   m_PrefilterHDROutput: 1
-  m_PrefilterAlphaOutput: 0
+  m_PrefilterAlphaOutput: 1
   m_PrefilterSSAODepthNormals: 1
   m_PrefilterSSAOSourceDepthLow: 1
   m_PrefilterSSAOSourceDepthMedium: 1
